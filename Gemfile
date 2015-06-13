@@ -57,7 +57,7 @@ end
 group :development do
   gem 'quiet_assets'
   gem 'better_errors'
-  gem 'binding_of_caller', '~> 0.7.2', platforms: [:mri_19, :rbx]
+  gem 'binding_of_caller', '~> 0.7.2', platforms: [:mri_19, :rbx, :mri_22]
 
   # For mocking emails for sending.
   gem 'letter_opener'
