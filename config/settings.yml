@@ -226,10 +226,11 @@ info_box_terms:
 language_links:
   - 'English: en'
   - 'Español: es'
-  - 'Tagalog: tl'
-  - '中文: zh-CN'
-  - 'العربية: ar'
-  - 'Русский: ru'
+  - 'Haitian Creole: ht'
+  #- 'Tagalog: tl'
+  #- '中文: zh-CN'
+  #- 'العربية: ar'
+  #- 'Русский: ru'
 
 ######################
 #
